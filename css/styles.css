@@ -3,16 +3,27 @@
     font-size: x-large;
 }
 
+.bg {
+    background-color: rgb(46, 117, 224);
+}
+
 .test {
     background-color: tomato;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
     padding: 20px;
+    border-radius: 25px;
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
 }
