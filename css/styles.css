@@ -2,3 +2,17 @@
     text-align: center;
     font-size: x-large;
 }
+
+.test {
+    background-color: tomato;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
